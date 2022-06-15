@@ -20,5 +20,4 @@ int main(){
     int arr[] = {1,3,2};
     vector<int> v;
     subS(0,v,arr,3);
-    cout<<"p"<<endl;
 }
